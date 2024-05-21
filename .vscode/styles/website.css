@@ -1,0 +1,33 @@
+a {
+   color: rgb(0, 113, 133);
+   font-size: 20px;
+ }
+ .shoes {
+   color: black;
+   font-weight: bold;
+   font-size: 30px;
+ }
+ .cost {
+   color: rgb(0, 118, 0);
+   font-weight: bold;
+   font-size: 20px;
+ }
+ .delivery {
+   font-size: 20px;
+ }
+ .cart {
+   background-color: rgb(255, 216, 20);
+   border-color: rgb(255, 216, 20);
+   border: none;
+   border-radius: 50px;
+   height: 32px;
+   width: 120px;
+   margin-right: 10px;
+ }
+ .Buy {
+   background-color: rgb(255, 164, 28);
+   border: none;
+   height: 32px;
+   width: 130px;
+   border-radius: 50px;
+ }
